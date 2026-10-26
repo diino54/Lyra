@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" fill="none">
+  <title>Lyra equalizer</title>
+  <rect x="4" y="4" width="120" height="120" rx="28" fill="#15171b"/>
+  <path d="M40 42v44M64 32v64M88 48v32" stroke="#a7b9d1" stroke-width="8" stroke-linecap="round"/>
+  <path d="M40 60v14M64 48v14M88 58v14" stroke="#15171b" stroke-width="12" stroke-linecap="round"/>
+  <path d="M40 64v6M64 52v6M88 62v6" stroke="#7946c4" stroke-width="12" stroke-linecap="round"/>
+</svg>
